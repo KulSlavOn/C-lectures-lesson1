@@ -1,0 +1,15 @@
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\bin\Debug\net6.0\Exsample008_Dog.exe
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\bin\Debug\net6.0\Exsample008_Dog.deps.json
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\bin\Debug\net6.0\Exsample008_Dog.runtimeconfig.json
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\bin\Debug\net6.0\Exsample008_Dog.dll
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\bin\Debug\net6.0\Exsample008_Dog.pdb
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.csproj.AssemblyReference.cache
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.AssemblyInfoInputs.cache
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.AssemblyInfo.cs
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.csproj.CoreCompileInputs.cache
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.dll
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\refint\Exsample008_Dog.dll
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.pdb
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\Exsample008_Dog.genruntimeconfig.cache
+D:\Program Files\C#\lectures\lesson1\Exsample008_Dog\obj\Debug\net6.0\ref\Exsample008_Dog.dll

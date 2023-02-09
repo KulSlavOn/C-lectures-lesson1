@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exsample008_Dog/1.0.0": {
+        "runtime": {
+          "Exsample008_Dog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exsample008_Dog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
