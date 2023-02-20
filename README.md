@@ -20,3 +20,7 @@
 * Exsample009_IntroArray
 * Exsample010_MethodArray
 * Exsample011_ArrayLibrary
+
+## Lesson3
+
+* Exsample012_Methods
